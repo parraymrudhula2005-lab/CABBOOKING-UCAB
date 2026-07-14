@@ -1,4 +1,4 @@
-# 🚕 Cab-U: MERN Stack Cab Booking & Ride Management Platform
+# 🚕 CABBOOKING-UCAB: MERN Stack Cab Booking & Ride Management Platform
 
 A modern, high-performance web application for cab booking, real-time route tracking, interactive driver dispatch, and secure digital checkouts.
 
@@ -6,9 +6,9 @@ A modern, high-performance web application for cab booking, real-time route trac
 
 ## 1. Introduction
 
-* **Project Title**: Cab-U (Cab Booking & Ride Management System)
-* **Team Members**: Hemanth (Full Stack Engineer & Project Owner)
-* **Email**: hemanthsivasai19@gmail.com
+* **Project Title**: CABBOOKING-UCAB(Cab Booking & Ride Management System)
+* **Owner**: Parray Mrudhula (Full Stack Engineer & Project Owner)
+* **Email**:parraymrudhula2005@gmail.com
 
 ---
 
@@ -214,4 +214,4 @@ All REST endpoints have been tested utilizing **Postman**. Verification includes
 * **SMS Gateway Integration**: Hook up Twilio API to broadcast SMS text notifications for OTP authentication and cab arrivals.
 * **Admin Dashboard**: Create a central panel for managers to oversee support tickets, register vehicle inspections, and view earnings.
 
-<!-- Project metadata verification by Hemanth -->
+<!-- Project metadata verification by Parray Mrudhula -->
